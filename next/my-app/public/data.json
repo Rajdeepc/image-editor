@@ -1,0 +1,83 @@
+[
+    {
+      "id": "brighten",
+      "name": "brighten",
+      "value": [
+        {
+          "property": "brightness",
+          "value": 130,
+          "unit": "%"
+        },
+        {
+          "property": "contrast",
+          "value": 120,
+          "unit": "%"
+        },
+        {
+          "property": "saturate",
+          "value": 120,
+          "unit": "%"
+        }
+      ]
+    },
+    {
+      "id": "b&w",
+      "name": "black and white",
+  
+      "value": [
+        {
+          "property": "grayscale",
+          "value": 100,
+          "unit": "%"
+        },
+        {
+          "property": "brightness",
+          "value": 100,
+          "unit": "%"
+        },
+        {
+          "property": "contrast",
+          "value": 100,
+          "unit": "%"
+        }
+      ]
+    },
+    {
+      "id": "funky",
+      "name": "funky",
+      "value": [
+        {
+          "property": "hue-rotate",
+          "value": 22,
+          "unit": "deg"
+        },
+        {
+          "property": "contrast",
+          "value": 100,
+          "unit": "%"
+        }
+      ]
+    },
+    {
+      "id": "vintage",
+      "name": "vintage",
+      "value": [
+        {
+          "property": "brightness",
+          "value": 100,
+          "unit": "%"
+        },
+        {
+          "property": "saturate",
+          "value": 120,
+          "unit": "%"
+        },
+        {
+          "property": "sepia",
+          "value": 150,
+          "unit": "%"
+        }
+      ]
+    }
+  ]
+  
